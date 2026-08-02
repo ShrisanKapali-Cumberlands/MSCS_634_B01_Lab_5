@@ -1,8 +1,8 @@
 # Lab 5: Clustering Techniques Using DBSCAN and Hierarchical Clustering
 
-**Student:** Shrisan kapali
-**Professor:** Satish Penmatsa
-**Course:** Advanced Big Data and Data Mining (MSCS 634 B01)
+**Student:** Shrisan kapali  
+**Professor:** Satish Penmatsa  
+**Course:** Advanced Big Data and Data Mining (MSCS 634 B01)  
 **Date:** 08/02/2026
 
 ## Overview
